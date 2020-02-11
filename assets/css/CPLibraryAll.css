@@ -2,7 +2,7 @@
   overflow: hidden;
 }
 .cpMainContainer {
-  background-image: URL("image.jpg");
+  background-image: URL("./image.jpg");
   height: 100%;
   width: 100%;
   padding: 0;
